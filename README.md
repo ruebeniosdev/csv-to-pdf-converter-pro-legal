@@ -1,8 +1,6 @@
 # CSV to PDF Converter Pro legal pages
 
-Static GitHub Pages site for the app's privacy policy and customer support.
+- [Privacy Policy](privacy-policy.md)
+- [Support](support.md)
 
-- Privacy policy: `/privacy-policy/`
-- Support: `/support/`
-
-The app's source repository is not included here.
+The HTML copies under `privacy-policy/` and `support/` are for GitHub Pages or other static hosting if a suitable domain is configured. This repository contains no app source code.
